@@ -25,8 +25,7 @@ Open the link "http://localhost/Hotel-Management-System/" or "http://localhost/H
 Now register and login
 ```
 
-
-### login page
+### Login Page
 
 ```sh
 == Staff Login ==
@@ -34,3 +33,7 @@ Now register and login
 Email : Admin@gmail.com
 Password : 1234
 ```
+# Project Showcase Screenshots
+
+Go to Project Section on my portfolio Link : https://jaydeep-satrotiya-portfolio.vercel.app
+
